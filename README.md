@@ -1,2 +1,3 @@
 # Restaurant_Recommendation
 This project is useful for get Restaurant based on customer satisfaction
+        First we can get the swiggy dataset and store in postgresql and retrieve that data to python.After that we preprocessing for cleaning that data and saved as cleaned.csv and after that we can use this for restaurant find out.Then we Build a recommendation model using Machine Learning.This Recommend restaurants based on similarity.Develop an interactive Streamlit web application.Based on these we used technologies python,postgresql,scikit learn, and streamlit.Finally customer can find out which restaurant is suitable for us based on our priority.
