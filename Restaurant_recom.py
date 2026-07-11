@@ -13,7 +13,7 @@ import streamlit as st
 
 
 engine = create_engine(
-    "postgresql+psycopg2://postgres:Lava9090@localhost:5432/swiggy_db"
+    "postgresql+psycopg2://postgres:pwd@localhost:5432/swiggy_db"
 )
 
 
@@ -180,7 +180,7 @@ print("=" * 60)
 
 
 engine = create_engine(
-    "postgresql+psycopg2://postgres:Lava90909@localhost:5432/swiggy_db"
+    "postgresql+psycopg2://postgres:pwd@localhost:5432/swiggy_db"
 )
 
 
@@ -399,7 +399,7 @@ st.set_page_config(
 
 
 engine = create_engine(
-    "postgresql+psycopg2://postgres:Lava90909@localhost:5432/swiggy_db"
+    "postgresql+psycopg2://postgres:pwd@localhost:5432/swiggy_db"
 )
 
 
